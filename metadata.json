@@ -1,0 +1,8 @@
+{
+  "name": "OmniCalc AI",
+  "description": "An all-in-one modern calculator suite featuring 15 specialized modes, interactive graphing, live currency conversions, matrix algebra, and an AI math solver powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
